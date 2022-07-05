@@ -22,7 +22,7 @@ class Scraper:
             if not os.path.exists(self.output_directory):
                 os.mkdir(self.output_directory)
 
-            i += 1
+           
 
 
 
@@ -41,7 +41,7 @@ class Scraper:
                         response = requests.get(submission.url)
                         file.write(response.content)
                         print(f"<- image downloaded:  {submission.url} from {post}")
-                        i += 1
+                    
 
         return
 

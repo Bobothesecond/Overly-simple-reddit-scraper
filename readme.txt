@@ -2,6 +2,7 @@ TO BE ADDED:
 
 Download reddit videos
 Sort by categories other than hot through input
+GUI?
 -----------------------------------------------
 
 

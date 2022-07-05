@@ -1,3 +1,10 @@
+TO BE ADDED:
+
+Download reddit videos
+Sort by categories other than hot through input
+-----------------------------------------------
+
+
 This is a simple reddit scraper I made as a test.
 
 The list of subreddits to be scraped is in the subs.txt file. You can append which subs you would like to scrape by writing in the text document in the following formate:
